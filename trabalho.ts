@@ -117,8 +117,8 @@ console.log("--------------");
 
 
 /*Segue abaixo a resolução do segundo exercicio
-//Crie uma expressão regular onde o formato 123.456.abc.def seja válido,
-//porém 2123.456.abc.def também pode ser válido.
+Crie uma expressão regular onde o formato 123.456.abc.def seja válido,
+porém 2123.456.abc.def também pode ser válido.
 
 /^[0-9]{3, 4}\.[0-9]{3}\.[a-z]{3}\.[a-z]{3}$/i;
 
